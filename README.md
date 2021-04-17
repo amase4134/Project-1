@@ -8,6 +8,7 @@ Please review the four R.script files:
 - plot_2.R
 - plot_3.R
 - plot_4.R
+
 And the four png files:
 - plot1.png
 - plot2.png
